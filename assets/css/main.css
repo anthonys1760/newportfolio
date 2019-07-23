@@ -4159,3 +4159,7 @@ input, select, textarea {
 	.image {
 		padding-top: 28px;
 	}
+
+	ul.icons {
+		list-style-type: none;
+	}
